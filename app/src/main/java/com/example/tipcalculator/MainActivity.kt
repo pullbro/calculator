@@ -129,7 +129,7 @@ class MainActivity : ComponentActivity() {
                     .fillMaxWidth()
                     .padding(bottom = 10.dp)
             )
-
+            // Sticking comment in here to be able to push to github
             LabeledOutputRow(
                 label = "Total",
                 valueText = "$totalAmount",
